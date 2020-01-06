@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myreact/static/css/main.9006e647.chunk.css",
-    "main.js": "/myreact/static/js/main.d0bb2075.chunk.js",
-    "main.js.map": "/myreact/static/js/main.d0bb2075.chunk.js.map",
-    "runtime~main.js": "/myreact/static/js/runtime~main.198df2e0.js",
-    "runtime~main.js.map": "/myreact/static/js/runtime~main.198df2e0.js.map",
-    "static/js/2.d8542783.chunk.js": "/myreact/static/js/2.d8542783.chunk.js",
-    "static/js/2.d8542783.chunk.js.map": "/myreact/static/js/2.d8542783.chunk.js.map",
-    "index.html": "/myreact/index.html",
-    "precache-manifest.f57e2f1318547323f7f339495b06270a.js": "/myreact/precache-manifest.f57e2f1318547323f7f339495b06270a.js",
-    "service-worker.js": "/myreact/service-worker.js",
-    "static/css/main.9006e647.chunk.css.map": "/myreact/static/css/main.9006e647.chunk.css.map"
+    "main.css": "/ravi_xebia_dashboard/static/css/main.9006e647.chunk.css",
+    "main.js": "/ravi_xebia_dashboard/static/js/main.a51e479f.chunk.js",
+    "main.js.map": "/ravi_xebia_dashboard/static/js/main.a51e479f.chunk.js.map",
+    "runtime~main.js": "/ravi_xebia_dashboard/static/js/runtime~main.541f2a0f.js",
+    "runtime~main.js.map": "/ravi_xebia_dashboard/static/js/runtime~main.541f2a0f.js.map",
+    "static/js/2.d8542783.chunk.js": "/ravi_xebia_dashboard/static/js/2.d8542783.chunk.js",
+    "static/js/2.d8542783.chunk.js.map": "/ravi_xebia_dashboard/static/js/2.d8542783.chunk.js.map",
+    "index.html": "/ravi_xebia_dashboard/index.html",
+    "precache-manifest.fbf9e4de82b1ed6b46ff0a8c58d1a731.js": "/ravi_xebia_dashboard/precache-manifest.fbf9e4de82b1ed6b46ff0a8c58d1a731.js",
+    "service-worker.js": "/ravi_xebia_dashboard/service-worker.js",
+    "static/css/main.9006e647.chunk.css.map": "/ravi_xebia_dashboard/static/css/main.9006e647.chunk.css.map"
   }
 }
